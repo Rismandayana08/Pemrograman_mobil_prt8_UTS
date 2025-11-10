@@ -5,17 +5,5 @@
 # NIM : 312410015
 # Dosen Pengampu : Donny Maulana, S.Kom.,M.M.S.I
 
-# SplashScreen
-....
-
-# StoryBoard
-.....
-
-# Mockup
-...
-
-# UI 
-....
-
-# UX
-....
+# link Canva
+https://www.canva.com/design/DAG3RMxE0W0/FbPkSEglL5_uJcmyWRBADA/edit?utm_content=DAG3RMxE0W0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
